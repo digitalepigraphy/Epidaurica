@@ -1,0 +1,106 @@
+{
+  "Collection": "Epidauros Squeeze Digitization",
+  "URL": "https://digitalepigraphy.github.io/Epidaurica/",
+  "Records": {
+    "IV_I_2_129_a": {
+      "Description": "3D digitization of the squeeze using bidirectional flatbed scanning.",
+      "Scanner": "EPSON Perfection 1240",
+      "Date": "Feb. 12, 2007",
+      "Width": "915",
+      "Height": "759",
+      "DPI": "150",
+      "Editors": [
+        {
+          "id": "AngelosBarmpoutis"
+        }
+      ],
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ],
+      "Squeeze": {
+        "Title": "Epigraphic squeeze",
+        "Material": "Red local limestone",
+        "IG Number": "IV I 2, 129",
+        "Province": "Epidaurus",
+        "Modern country": "Greece",
+        "Inscription type": "Dedication",
+        "Language": "Greek",
+        "Principal Investigator": "Robert S. Wagman"
+      }
+    },
+    "IV_I_2_129_b": {
+      "Description": "3D digitization of the squeeze using bidirectional flatbed scanning.",
+      "Scanner": "EPSON Perfection 1240",
+      "Date": "Feb. 12, 2007",
+      "Width": "1275",
+      "Height": "615",
+      "DPI": "150",
+      "Editors": [
+        {
+          "id": "AngelosBarmpoutis"
+        }
+      ],
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ],
+      "Squeeze": {
+        "Title": "Epigraphic squeeze",
+        "Material": "Red local limestone",
+        "IG Number": "IV I 2, 129",
+        "Province": "Epidaurus",
+        "Modern country": "Greece",
+        "Inscription type": "Dedication",
+        "Language": "Greek",
+        "Principal Investigator": "Robert S. Wagman"
+      }
+    },
+    "IV_I_2_129_c": {
+      "Description": "3D digitization of the squeeze using bidirectional flatbed scanning.",
+      "Scanner": "EPSON Perfection 1240",
+      "Date": "Feb. 12, 2007",
+      "Width": "870",
+      "Height": "672",
+      "DPI": "150",
+      "Editors": [
+        {
+          "id": "AngelosBarmpoutis"
+        }
+      ],
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ],
+      "Squeeze": {
+        "Title": "Epigraphic squeeze",
+        "Material": "Red local limestone",
+        "IG Number": "IV I 2, 129",
+        "Province": "Epidaurus",
+        "Modern country": "Greece",
+        "Inscription type": "Dedication",
+        "Language": "Greek",
+        "Principal Investigator": "Robert S. Wagman"
+      }
+    }
+  },
+  "Editors": {
+    "AngelosBarmpoutis": {
+      "Name": "Angelos Barmpoutis"
+    }
+  },
+  "Sources": {
+    "MVA2010": {
+      "Author(s)": "A. Barmpoutis, E. Bozia, R. S. Wagman",
+      "Title": "A novel framework for 3D reconstruction and analysis of ancient inscriptions",
+      "Publication": "Journal of Machine Vision and Applications",
+      "Volume": "21",
+      "Number": "6",
+      "Year": "2010",
+      "Pages": "989-998"
+    }
+  }
+}

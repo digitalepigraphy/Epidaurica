@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<record>
+	<record_link type="neobject" value="Squeeze.xml"/>
+	<field id="27" value="3D digitization of the squeeze using bidirectional flatbed scanning.">
+		<source id="../References/MVA2010/Info.xml"/>
+	</field>
+	<field id="32" value="EPSON Perfection 1240"/>
+	<field id="8" value="Feb. 12, 2007">
+		<editor id="../References/AngelosBarmpoutis/Info.xml"/>
+	</field>
+	<field id="34" value="1275"/>
+	<field id="35" value="615"/>
+	<field id="33" value="150"/>
+<record_link><neobject_id>_M1uDYwjY6ZCWxiy1</neobject_id></record_link></record>
